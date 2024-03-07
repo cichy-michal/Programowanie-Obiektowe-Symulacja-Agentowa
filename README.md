@@ -1,4 +1,5 @@
 Symulacja została wykonana 06.2022 na kurs Programowanie Obiektowe (2 semestr Teleinformatyka)
+
 Temat: Symulacja życia inteligentnych cywilizacji w 
 kosmosie.
 
